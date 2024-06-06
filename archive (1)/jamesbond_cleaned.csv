@@ -1,0 +1,25 @@
+release_date,movie_title,bond_actor,car_manufacturer,income_usa,income_world,movie_budget,film_length,imdb,rotten_tomatoes,martinis_consumed,bond_kills
+1962,Dr. No,Sean Connery,Sunbeam,16067035,59567035,1000,110,7.3,7.7,2,4
+1963,From Russia with Love,Sean Connery,Bently,24800000,78900000,2000,115,7.5,8.0,0,11
+1964,Goldfinger,Sean Connery,Aston Martin,51100000,124900000,3000,110,7.8,8.4,1,9
+1965,Thunderball,Sean Connery,Aston Martin,63600000,141200000,9000,130,7.0,6.8,0,20
+1967,You Only Live Twice,Sean Connery,Toyota,43100000,111600000,9500,117,6.9,6.3,1,21
+1969,On Her Majesty's Secret Service,George Lazenby,Mercury,22800000,82000000,8000,142,6.8,6.7,1,5
+1971,Diamonds Are Forever,Sean Connery,Ford,43800000,116000000,7200,120,6.7,6.3,0,7
+1973,Live and Let Die,Roger Moore,AMC,35400000,161800000,7000,121,6.8,5.9,0,8
+1974,The Man with the Golden Gun,Roger Moore,AMC,21000000,97600000,7000,125,6.7,5.1,0,1
+1977,The Spy Who Loved Me,Roger Moore,Lotus,46800000,185400000,14000,125,7.1,6.8,1,31
+1979,Moonraker,Roger Moore,Lotus,70300000,210300000,31000,126,6.2,5.7,1,12
+1981,For Your Eyes Only,Roger Moore,Citroën,54800000,195300000,28000,127,6.8,6.3,0,18
+1983,Octopussy,Roger Moore,Bajaj,67900000,187500000,27500,131,6.5,5.3,0,15
+1985,A View to a Kill,Roger Moore,Rolls Royce,50327960,152627960,30000,131,6.2,4.7,0,5
+1987,The Living Daylights,Timothy Dalton,Rolls Royce,51185000,191200000,40000,130,6.7,6.3,2,13
+1989,License to Kill,Timothy Dalton,Aston Martin,34667015,156167015,42000,133,6.5,6.0,1,10
+1995,GoldenEye,Pierce Brosnan,BMW,106429941,356429941,60000,130,7.2,6.9,1,47
+1997,Tomorrow Never Dies,Pierce Brosnan,Aston Martin,125304276,339504276,110000,119,6.4,6.0,1,30
+1999,The World Is Not Enough,Pierce Brosnan,BMW,126930660,361730660,135000,128,6.3,5.7,1,27
+2002,Die Another Day,Pierce Brosnan,Aston Martin,160942139,431942139,142000,133,6.0,6.1,2,31
+2006,Casino Royale,Daniel Craig,Aston Martin,167365000,596365000,102000,144,7.9,7.8,3,11
+2008,Quantum of Solace,Daniel Craig,Aston Martin,169368427,591692078,230000,106,6.7,6.1,6,16
+2012,Skyfall,Daniel Craig,Aston Martin,304360277,1108561108,200000,143,7.8,8.2,1,26
+2015,Spectre,Daniel Craig,Aston Martin,200074175,879620923,245000,148,6.8,6.4,1,30
